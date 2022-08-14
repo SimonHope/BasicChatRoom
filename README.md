@@ -1,7 +1,7 @@
 # Basic chat room
 
 Basic chat room is a program develop by python3(socket) with GUI
-Python version [3.9.13](https://www.python.org/downloads/release/python-3913/)
+<br />Python version [3.9.13](https://www.python.org/downloads/release/python-3913/)
 ## Installation
 
 ### Server
